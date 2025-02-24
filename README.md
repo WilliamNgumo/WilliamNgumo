@@ -14,7 +14,7 @@
 ---
 
 ### 👨‍💻 About Me:
-I am a Software Engineer based in St. Louis Missouri. I have a passion for [Your Interests] and love to create innovative solutions.
+I am a Software Engineer based in St. Louis Missouri. I have a solid foundation in JavaScript, HTML, and CSS and love to create innovative solutions.
 
 - 🔭 I’m currently working on a fitness app that aims to enhance users' health and wellness through personalized workout with workout Logs plans and nutrition guidance.
 - 🌱 I’m currently exploring new technologies to enhance my skills in software engineering.
